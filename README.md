@@ -2,3 +2,5 @@
 This repository is for practicing the GitHub Flow.
 
 **I love to write words and sentences.**
+
+*italics* normal words (a link)[]
